@@ -30,19 +30,22 @@ Below we provide links and instructions to our paper, source code, dataset, trai
 
 ## Paper and supplementary materials
 
-* [AAAI-21 Official version](TO-BE-ADDED) - does not include SM. _The official published AAAI-21 version is not available yet._
+* [AAAI-21 Official version](https://ojs.aaai.org/index.php/AAAI/article/view/16512) - does not include SM.
 * [arXiv version](https://arxiv.org/abs/2002.05120) - full version with SM. 
 
-Until the official AAAI-21 version is published, please use the following BibTeX to cite our paper and/or dataset: 
+Please use the following BibTeX to cite our paper and/or dataset: 
 
 ```
-@misc{zarpellon2020parameterizing,
-      title={Parameterizing Branch-and-Bound Search Trees to Learn Branching Policies}, 
-      author={Giulia Zarpellon and Jason Jo and Andrea Lodi and Yoshua Bengio},
-      year={2020},
-      eprint={2002.05120},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@article{Zarpellon_Jo_Lodi_Bengio_2021, 
+    title={Parameterizing Branch-and-Bound Search Trees to Learn Branching Policies}, 
+    volume={35}, 
+    url={https://ojs.aaai.org/index.php/AAAI/article/view/16512}, 
+    number={5}, 
+    journal={Proceedings of the AAAI Conference on Artificial Intelligence}, 
+    author={Zarpellon, Giulia and Jo, Jason and Lodi, Andrea and Bengio, Yoshua}, 
+    year={2021}, 
+    month={May}, 
+    pages={3931-3939}
 }
 ```
 
