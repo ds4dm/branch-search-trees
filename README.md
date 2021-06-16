@@ -51,9 +51,11 @@ Please use the following BibTeX to cite our paper and/or dataset:
 
 ## Talks and presentations 
 
+* February 2-9, 2021 - Poster at the [35th AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/AAAI-21/) by Giulia 
+Zarpellon. [[Poster]](graphics/AAAI21-Poster-GZarpellon.pdf).
+
 * June 4, 2020 - Presentation at the [SCIP Online Workshop 2020](https://scipopt.org/workshop2020/) by Giulia Zarpellon. 
 [[Youtube video]](https://www.youtube.com/watch?v=9iIiA-wKZ2w) | [[Slides]](graphics/HO-SCIPWorkshop-GZarpellon.pdf).
-
 
 ## Installation and dependencies
 
